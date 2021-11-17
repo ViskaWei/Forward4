@@ -2,6 +2,8 @@ Breadcrumbs to infinity &amp; beyond
 
 -----------
 11/17/2021 Wed
+ * Deep Learning Part - II (CS7015): Lec 21.2 Masked Autoencoder Density Estimator (MADE)
+   https://www.youtube.com/watch?v=lNW8T0W-xeE
  * The fisher information
    https://www.youtube.com/watch?v=pneluWj-U-o
  * An Introduction to Stellar Astrophysics
