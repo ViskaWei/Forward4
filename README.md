@@ -12,6 +12,8 @@ Breadcrumbs to infinity &amp; beyond
    https://www.youtube.com/watch?v=XL07WEc2TRI
  * A Short Introduction to Entropy, Cross-Entropy and KL-Divergence
    https://www.youtube.com/watch?v=ErfnhcEV1O8
+ * MADE: Masked Autoencoder for Distribution Estimation
+   https://www.youtube.com/watch?v=7q4ueFiJjAY&t=14s
    
    
 
