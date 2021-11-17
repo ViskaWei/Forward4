@@ -1,4 +1,6 @@
 Breadcrumbs to infinity &amp; beyond
+
+-----------
 11/17/2021 Wed
  * The fisher information
    https://www.youtube.com/watch?v=pneluWj-U-o
