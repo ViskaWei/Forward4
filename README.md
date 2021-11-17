@@ -10,6 +10,9 @@ Breadcrumbs to infinity &amp; beyond
    https://www.youtube.com/watch?v=qOMOYM0WCzU
  * Stanford Seminar - Information Theory of Deep Learning
    https://www.youtube.com/watch?v=XL07WEc2TRI
+ * A Short Introduction to Entropy, Cross-Entropy and KL-Divergence
+   https://www.youtube.com/watch?v=ErfnhcEV1O8
+   
    
 
 ---------
