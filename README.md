@@ -3,6 +3,7 @@ Breadcrumbs to infinity &amp; beyond
 -----------
 11/18/2021 Thu
 * 矩法估计 https://www.bilibili.com/video/BV1qi4y1T7ob/
+* 最大似然估计 https://www.youtube.com/watch?v=EyFenDAiA3Y
 * **Jalaj Upadhyay** 
 * Machine Learning for Data https://sites.google.com/view/ml4data
   https://slideslive.com/38962657/chapter-1-sparsity-in-deep-learning-pruning-and-growth-for-efficient-inference-and-training-in-neural-networks?ref=recommended-presentation-38964706
