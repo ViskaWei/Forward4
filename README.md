@@ -1,6 +1,13 @@
 Breadcrumbs to infinity &amp; beyond
 
 -----------
+11/18/2021 Thu
+* 矩法估计 https://www.bilibili.com/video/BV1qi4y1T7ob/
+* **Jalaj Upadhyay** 
+* Machine Learning for Data https://sites.google.com/view/ml4data
+  https://slideslive.com/38962657/chapter-1-sparsity-in-deep-learning-pruning-and-growth-for-efficient-inference-and-training-in-neural-networks?ref=recommended-presentation-38964706
+
+-----------
 11/17/2021 Wed
  * Deep Learning Part - II (CS7015): Lec 21.2 Masked Autoencoder Density Estimator (MADE)
    https://www.youtube.com/watch?v=lNW8T0W-xeE
