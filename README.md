@@ -6,7 +6,7 @@ Breadcrumbs to infinity &amp; beyond
 * Statistical Inference I Simons Institute https://www.youtube.com/watch?v=9S4KXkyb3WE
 * Statistics 200: Introduction to Statistical Inference https://web.stanford.edu/class/archive/stats/stats200/stats200.1172/lectures.html
 * Information Theory https://www.coursera.org/learn/information-theory#syllabus
-
+* Bayesian methods in ML https://www.coursera.org/learn/bayesian-methods-in-machine-learning
 -----------
 11/18/2021 Thu
 * 矩法估计 https://www.bilibili.com/video/BV1qi4y1T7ob/
@@ -14,6 +14,7 @@ Breadcrumbs to infinity &amp; beyond
 * **Jalaj Upadhyay** 
 * Machine Learning for Data https://sites.google.com/view/ml4data
   https://slideslive.com/38962657/chapter-1-sparsity-in-deep-learning-pruning-and-growth-for-efficient-inference-and-training-in-neural-networks?ref=recommended-presentation-38964706
+* Fisher信息 https://www.bilibili.com/video/BV12z411e7Ct
 
 -----------
 11/17/2021 Wed
