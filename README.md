@@ -1,4 +1,8 @@
 Breadcrumbs to infinity &amp; beyond
+11/19/2021 Fri
+* System Identification https://www.bilibili.com/video/BV1XZ4y1g7MG?from=search&seid=1624444864041389846&spm_id_from=333.337.0.0
+* Statistical Inference I Simons Institute https://www.youtube.com/watch?v=9S4KXkyb3WE
+
 
 -----------
 11/18/2021 Thu
