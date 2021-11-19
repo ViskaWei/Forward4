@@ -7,6 +7,7 @@ Breadcrumbs to infinity &amp; beyond
 * Statistics 200: Introduction to Statistical Inference https://web.stanford.edu/class/archive/stats/stats200/stats200.1172/lectures.html
 * Information Theory https://www.coursera.org/learn/information-theory#syllabus
 * Bayesian methods in ML https://www.coursera.org/learn/bayesian-methods-in-machine-learning
+* Fisher信息 https://www.bilibili.com/video/BV12z411e7Ct
 -----------
 11/18/2021 Thu
 * 矩法估计 https://www.bilibili.com/video/BV1qi4y1T7ob/
