@@ -5,7 +5,7 @@ Breadcrumbs to infinity &amp; beyond
 * System Identification https://www.bilibili.com/video/BV1XZ4y1g7MG?from=search&seid=1624444864041389846&spm_id_from=333.337.0.0
 * Statistical Inference I Simons Institute https://www.youtube.com/watch?v=9S4KXkyb3WE
 * Statistics 200: Introduction to Statistical Inference https://web.stanford.edu/class/archive/stats/stats200/stats200.1172/lectures.html
-
+* Information Theory https://www.coursera.org/learn/information-theory#syllabus
 
 -----------
 11/18/2021 Thu
