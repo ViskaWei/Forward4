@@ -1,5 +1,19 @@
 Breadcrumbs to infinity &amp; beyond
 
+2/17/2022 Thr
+* Brendan Gregg’s Systems Performance Enterprise and the Cloud
+* zarr https://zarr.readthedocs.io/en/stable/
+
+
+
+2/16/2022 Wed
+* Parameter Prediction for Unseen Deep Architectures
+* Broader context https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/
+* Original paper https://arxiv.org/abs/2110.13100
+* Facebook releasing the source code https://www.infoq.com/news/2021/11/facebook-ghn-meta-model/
+* Link to the source code https://github.com/facebookresearch/ppuda
+
+
 ---------------
 11/19/2021 Fri
 * System Identification https://www.bilibili.com/video/BV1XZ4y1g7MG?from=search&seid=1624444864041389846&spm_id_from=333.337.0.0
