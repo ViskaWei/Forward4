@@ -1,7 +1,7 @@
 Breadcrumbs to infinity &amp; beyond
 
 2/17/2022 Thr
-* Brendan Gregg’s Systems Performance Enterprise and the Cloud
+* [Chapter 1] Brendan Gregg’s Systems Performance Enterprise and the Cloud
 * zarr https://zarr.readthedocs.io/en/stable/
 
 
