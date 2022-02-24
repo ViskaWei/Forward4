@@ -1,5 +1,24 @@
 Breadcrumbs to infinity &amp; beyond
 
+2/24/2022 Thr
+* How to double learning speed https://www.youtube.com/watch?v=Y1e38mkTfRA&t=199s
+* Clean Architectures in Python - Leonardo Giordani - PyLondinium19 https://www.youtube.com/watch?v=wtCQalq7L-E
+
+2/23/2022 Wed
+* speed reading / how to read a book
+* 
+
+2/22/2022 Tue
+* Parameter Prediction for Unseen Deep Architectures
+* Graph Neural Network
+
+2/21/2022 Mon
+* [4 Observability Tools] Brendan Gregg’s Systems Performance Enterprise and the Cloud
+
+2/20/2022 Sun
+* [2 Methodology] Brendan Gregg’s Systems Performance Enterprise and the Cloud
+
+
 2/17/2022 Thr
 * [Chapter 1] Brendan Gregg’s Systems Performance Enterprise and the Cloud
 * zarr https://zarr.readthedocs.io/en/stable/
