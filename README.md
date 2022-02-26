@@ -1,5 +1,12 @@
 Breadcrumbs to infinity &amp; beyond
 
+
+
+2/25/2022 Fri
+* S.O.L.I.D https://www.youtube.com/watch?v=pTB30aXS77U
+* https://github.com/cosmicpython/book
+* The Hitchiker's Guide Python https://docs.python-guide.org/writing/structure/
+
 2/24/2022 Thr
 * How to double learning speed https://www.youtube.com/watch?v=Y1e38mkTfRA&t=199s
 * Clean Architectures in Python - Leonardo Giordani - PyLondinium19 https://www.youtube.com/watch?v=wtCQalq7L-E
