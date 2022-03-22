@@ -1,6 +1,12 @@
 Breadcrumbs to infinity &amp; beyond
 
 
+3/22/2022 Tue
+* Transcriptome https://www.coursera.org/learn/sheng-wu-xin-xi-xue/lecture/IXPOL/zhuan-lu-zu-jie-shao
+* Caroline Uhler, Multi Domain Data Integration From Observations to Mechanistic Insights https://www.youtube.com/watch?v=EyUrToDdMWY
+* Yang...Uhler, C., Multidomain translation between single-cell imaging and sequencing data using autoencoders https://www.nature.com/articles/s41467-020-20249-2
+* Radhakrishnan...Uhler, C., Overparameterized neural networks implement associative memory https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7959487/
+
 
 2/25/2022 Fri
 * S.O.L.I.D https://www.youtube.com/watch?v=pTB30aXS77U
