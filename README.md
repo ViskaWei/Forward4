@@ -1,6 +1,10 @@
 Breadcrumbs to infinity &amp; beyond
 
-* 3/27/2022 Sun
+3/29/2022 Tue
+* Lord of Rings
+
+
+3/27/2022 Sun
 * Adit Radha - Overparameterized NNs Implement Associative Memory https://www.youtube.com/watch?v=BaJ_n0EzFG8
 
 3/23/2022 Wed
