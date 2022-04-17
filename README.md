@@ -1,15 +1,11 @@
 Breadcrumbs to infinity &amp; beyond
 
-3/29/2022 Tue
-* Lord of Rings
+4/17/2022 Sun
+* Capsule Network https://www.youtube.com/watch?v=pPN8d0E3900
 
 
 3/27/2022 Sun
 * Adit Radha - Overparameterized NNs Implement Associative Memory https://www.youtube.com/watch?v=BaJ_n0EzFG8
-
-3/23/2022 Wed
-* 人世间
-
 
 3/22/2022 Tue
 * Transcriptome https://www.coursera.org/learn/sheng-wu-xin-xi-xue/lecture/IXPOL/zhuan-lu-zu-jie-shao
