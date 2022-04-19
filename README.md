@@ -25,7 +25,6 @@ Breadcrumbs to infinity &amp; beyond
 
 2/23/2022 Wed
 * speed reading / how to read a book
-* 
 
 2/22/2022 Tue
 * Parameter Prediction for Unseen Deep Architectures
